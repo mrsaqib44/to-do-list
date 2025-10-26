@@ -152,3 +152,6 @@ function App() {
 }
 
 export default App;
+
+
+// Simra here : This code defines a React functional component for a TODO application with features like adding, toggling, deleting tasks, filtering by status, and persisting data in local storage. It uses Tailwind CSS for styling and Lucide icons for visual elements.
